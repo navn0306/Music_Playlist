@@ -3,8 +3,8 @@
 Created an in-memory store for recently played songs that can accommodate N songs per user, with a fixed initial capacity. It is also able to fetch recently played songs based on the user and eliminate the least recently played songs when the store becomes full.
 
 ### Libraries used :
-Maven Compiler 1.7
-Maven Clean Plugin 3.0.2
+Maven Compiler 1.7, 
+Maven Clean Plugin 3.0.2, 
 Junit 4.12
 
 #### Instructions to Execute:
